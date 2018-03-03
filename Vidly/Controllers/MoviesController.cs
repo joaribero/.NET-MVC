@@ -22,7 +22,10 @@ namespace Vidly.Controllers
             return new List<Movie>
             {
                 new Movie { Id = 1, Name = "Shrek" },
-                new Movie { Id = 2, Name = "Wall-e" }
+                new Movie { Id = 2, Name = "Wall-e" },
+                new Movie { Id = 3, Name = "Iron Man"},
+                new Movie { Id = 4, Name = "Hulk"},
+                new Movie { Id = 5, Name = "Batman vs Superman"}
             };
         }
 
