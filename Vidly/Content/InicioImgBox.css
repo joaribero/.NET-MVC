@@ -1,0 +1,91 @@
+﻿
+.image-Box {
+    position: relative;
+    overflow: hidden;
+    max-width: 300px;
+    border-radius: 10px;
+    margin: 40px auto;
+}
+
+.image-Box img 
+{
+    width: 200px;
+    height: 300px;
+}
+
+.image-Box h3 
+{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    top: -24px;
+    transform: translateY(-50%);
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+    color: #fff;
+    text-shadow: 0 2px 5px rgba(0,0,0,0.5);
+    transition: 0.5s;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+.image-Box:hover h3 
+{
+    top: 50%;
+    transform: translateY(-50px);
+}
+
+.image-Box ul 
+{
+    position: absolute;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background: rgba(0,0,0,.2);
+    transform: translateY(50px);
+    transition: .5s;
+}
+
+.image-Box:hover ul {
+    transform: translateY(-90px);
+}
+
+.image-Box ul li 
+{
+    list-style: none;
+    box-sizing: border-box;
+    width: 25%;
+}
+
+.image-Box ul li a 
+{
+    color: #fff;
+    font-size: 20px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.image-Box ul li:hover:nth-child(1) 
+{
+    background: #deb522;
+}
+
+.imageBox ul li:hover:nth-child(2) 
+{
+    background: #BDBDBD;
+}
+
+.imageBox ul li:hover:nth-child(3) 
+{
+    background: #cd201f;
+}
+
+.card-name 
+{
+    position: absolute;
+    margin: 0;
+}

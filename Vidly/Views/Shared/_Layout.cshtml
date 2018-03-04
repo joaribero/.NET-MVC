@@ -3,9 +3,10 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>@ViewBag.Title - Natflix</title>
+    <title>@ViewBag.Title - My ASP.NET Application</title>
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+
 </head>
 <body>
     @Html.Partial("_NavBar")
@@ -13,9 +14,11 @@
         @RenderBody()
         <hr />
         <footer>
-            <p>&copy; @DateTime.Now.Year - Natflx</p>
+            <p>&copy; @DateTime.Now.Year - Natflix</p>
         </footer>
     </div>
+
+
     @Scripts.Render("~/bundles/lib")
     @RenderSection("scripts", required: false)
 </body>
