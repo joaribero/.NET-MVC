@@ -109,9 +109,9 @@ C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.dll
 C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.pdb
+C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
