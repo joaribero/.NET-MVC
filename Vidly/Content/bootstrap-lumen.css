@@ -1591,6 +1591,7 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  /*display: flex;*/
 
   margin: 10px;
 }
@@ -1614,6 +1615,8 @@ pre code {
   margin-left: auto;
   padding-left: 15px;
   padding-right: 15px;
+  /*display: flex;
+  flex-wrap: wrap;*/
 }
 .row {
   margin-left: -15px;
