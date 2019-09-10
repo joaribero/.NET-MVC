@@ -1,190 +1,70 @@
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Vidly.dll.config
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Vidly.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Vidly.pdb
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Antlr3.Runtime.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\EntityFramework.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Newtonsoft.Json.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Owin.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Helpers.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Mvc.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Optimization.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Razor.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.WebPages.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.WebPages.Razor.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\WebGrease.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Helpers.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Mvc.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Optimization.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.Razor.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.WebPages.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\System.Web.WebPages.Razor.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Antlr3.Runtime.pdb
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Newtonsoft.Json.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\EntityFramework.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\EntityFramework.SqlServer.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\obj\Debug\Vidly.dll
-C:\Users\Usuario\Desktop\Proyect MVC\vidly-mvc-5-638c50c6bd42e356cef39706699429aff19be44e\Vidly\obj\Debug\Vidly.pdb
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Vidly.dll.config
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Vidly.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Vidly.pdb
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Antlr3.Runtime.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\EntityFramework.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Newtonsoft.Json.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Owin.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Helpers.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Mvc.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Optimization.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Razor.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.WebPages.Deployment.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.WebPages.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.WebPages.Razor.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\WebGrease.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Helpers.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Mvc.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Optimization.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.Razor.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.WebPages.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.WebPages.Deployment.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\System.Web.WebPages.Razor.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Antlr3.Runtime.pdb
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Newtonsoft.Json.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\EntityFramework.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\EntityFramework.SqlServer.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\bin\es\System.Web.Optimization.resources.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.Cache
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.dll
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.pdb
-C:\Users\Usuario\Desktop\Proyect MVC\.NET-MVC\Vidly\obj\Debug\Vidly.csprojResolveAssemblyReference.cache
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Vidly.dll.config
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Vidly.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Vidly.pdb
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Antlr3.Runtime.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\EntityFramework.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\EntityFramework.SqlServer.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Google.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Newtonsoft.Json.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Owin.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Helpers.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Mvc.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Optimization.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Razor.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.WebPages.Deployment.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.WebPages.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.WebPages.Razor.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\WebGrease.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Helpers.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Mvc.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Optimization.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.Razor.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.WebPages.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.WebPages.Deployment.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\System.Web.WebPages.Razor.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Antlr3.Runtime.pdb
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Newtonsoft.Json.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\EntityFramework.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\EntityFramework.SqlServer.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Google.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\bin\es\System.Web.Optimization.resources.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.dll
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.pdb
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddIsSuscribedToCostumer.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddMembershipType.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.PopulateMembershipTypes.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.ApplyAnnotationsToCustomerName.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddNameToMembershipType.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.SetNamesOfMembershipTypes.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.SetNameOfMembershipToRequired.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.addmigrationSetNameOfMembership2.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddBirthdayToCostumer.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddBirthdateToCostumers.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddMovie.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.Genre.resources
-C:\Users\joari\Desktop\Capacitación\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.AddGenreFix.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Vidly.dll.config
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Vidly.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Vidly.pdb
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Antlr3.Runtime.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.SqlServer.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Newtonsoft.Json.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Owin.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Helpers.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Mvc.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Optimization.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Razor.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Razor.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\WebGrease.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Helpers.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Mvc.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Optimization.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.Razor.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\System.Web.WebPages.Razor.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Antlr3.Runtime.pdb
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Newtonsoft.Json.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\EntityFramework.SqlServer.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csprojAssemblyReference.cache
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csproj.CoreCompileInputs.cache
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csproj.CopyComplete
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.dll
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.pdb
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.InitialModel.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.InitialModel1.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addSuscribedToCostumer.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addMembershipType.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.populateMembershipTypes.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addMembershipTypeName.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addBirthdateToCustomer.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addRequiredMethodsToCustomersAndMembershipType.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addGenreClass.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addMovieProperties.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addGenreValues.resources
+C:\Users\joari\source\repos\vidly-mvc-5-b727a26e1b4b88abe84a8b48208fec537db2ed43\Vidly\obj\Debug\Vidly.Migrations.addMoviesForm.resources

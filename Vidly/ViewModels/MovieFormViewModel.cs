@@ -1,5 +1,9 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
 using Vidly.Models;
+
 namespace Vidly.ViewModels
 {
     public class MovieFormViewModel
@@ -12,6 +16,7 @@ namespace Vidly.ViewModels
             {
                 if (Movie != null && Movie.Id != 0)
                     return "Edit Movie";
+
                 return "New Movie";
             }
         }
