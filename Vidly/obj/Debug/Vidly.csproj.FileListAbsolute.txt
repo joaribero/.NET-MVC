@@ -144,3 +144,5 @@ C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CoreCompile
 C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.dll
 C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.pdb
+C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\bin\AutoMapper.dll
+C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\bin\AutoMapper.xml
