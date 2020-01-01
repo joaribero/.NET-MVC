@@ -146,3 +146,5 @@ C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.dll
 C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.pdb
 C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\bin\AutoMapper.dll
 C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\bin\AutoMapper.xml
+C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.SeedUsers.resources
+C:\Users\joari\Documents\Vidly\.NET-MVC\Vidly\obj\Debug\Vidly.Migrations.addDrivingLicense.resources
